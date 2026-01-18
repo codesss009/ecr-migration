@@ -156,10 +156,9 @@ Contributions are welcome. Open an issue or submit a PR with improvements, addit
 
 ## License
 
-Specify your license here (e.g., MIT). If you have no license yet, add one to the repo to clarify reuse permissions.
+No License as of now
 
 ## Contact
 
-For questions about this repo, open an issue or contact the repository owner.
-
+codesss009
 ```
